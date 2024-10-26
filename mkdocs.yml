@@ -1,2 +1,17 @@
 site_name: Fichas estudio
-theme: material
+theme:
+#  readthedocs
+ material
+# nav:
+#     - temario-a1.md
+
+plugins:
+    - tags
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    #- def_list
+    - pymdownx.tasklist:
+          custom_checkbox: false
