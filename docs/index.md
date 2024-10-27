@@ -1,3 +1,3 @@
 # Home
 
-<!-- material/tags { toc: true } -->
+<!--{{ context(navigation) | pretty }}-->
