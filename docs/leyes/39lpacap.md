@@ -1,5 +1,5 @@
 ---
-title: LPACAP
+title: Procedimiento Administrativo
 tags:
   - leyes
   - tema-8
@@ -24,7 +24,7 @@ tags:
 
 ## Derechos y obligaciones
 
-* Relación **ELECTRÓNICA**
+* Relación **ELECTRÓNICA** -> Art 14 Ciertos colectivos (empresas, colegios profesionales, opos TIC, ...)
 * Obligación de **RESOLVER**
 * Requisitos: PROD y CONTENIDO, MOTIVACIÓN y FORMA
 
