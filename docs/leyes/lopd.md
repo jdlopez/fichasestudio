@@ -34,11 +34,18 @@ tags:
 * (T) Derecho a la portabilidad (transferencia).
 * (L) Derecho a la limitación del tratamiento.
 
+Otros mnemotécnicos: ARCOT+IP ARSULIPO
+
 ## Responsable y encargado del tratamiento
-TBD
+* Plazo
+* Competencia
+* Análisis del riesgo
+* Evaluación de impacto (Alta)
 
 ## Delegado de protección de datos
-TBD
+* Su función es **ASESORAR**
+* Existe un _REGISTRO GENERAL_ de DPDs en la AEPD
+  
 ## Agencia Española de Protección de Datos (AEPD)
 TBD
 ## Garantía de los derechos digitales
