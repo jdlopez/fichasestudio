@@ -22,6 +22,7 @@ que han delegado parte de su soberanía en instituciones comunes para tomar demo
 > FSE, FEOGA y FEDER
 ### Maastricht 1992 (TUE)
 > Unión Europea.
+
 * Libre Circulación.
 * UE Monetaria.
 * Voto (sufragio pasivo) en elecciones MUNICIPALES -> Reforma CE. Art 13.2
