@@ -15,7 +15,7 @@ tags:
 ## Normas Tecnicas de Interoperabilidad
 * Catálogo de estándares
 * Documento electrónico
-* Digitalización de Documentos -> 200pp color-b/n-gris
+* Digitalización de Documentos -> 200 ppp color-b/n-gris
 * Depediente electrónico
 * Política de Firma y Certificados de las AAPP
 * Protocolos de Intermediación -> SCSP
